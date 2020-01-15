@@ -1,6 +1,5 @@
 <?Php
-// $filename='C:\\Users\\Hasan\\Desktop\\a\\f2.txt';
-// file_put_contents($filename,"hasan");
+
 
 interface BaseStorage{
     function setFileName($fn);
