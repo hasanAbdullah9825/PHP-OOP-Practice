@@ -1,6 +1,6 @@
 <?php
 namespace Animals;
-class dog extends cat {
+class dog  {
 function greet(){
     return "wowwf";
 }
