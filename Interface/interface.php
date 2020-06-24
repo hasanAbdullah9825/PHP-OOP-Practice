@@ -1,8 +1,10 @@
+
 <?php
 interface BaseAnimal{
     function isAlive();
     function canEat();
     function breed();
+   
 }
 
 class Animal implements BaseAnimal{
