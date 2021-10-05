@@ -17,5 +17,6 @@ class MyClass extends OurClass{
 $mc=new MyClass();
 $mc->eat('fish');
 
+// OurClass->sayHi();
 
 
